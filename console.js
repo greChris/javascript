@@ -1,1 +1,2 @@
-console.log("hello World")
+var x = prompt("ENTER X");
+console.log(x);
