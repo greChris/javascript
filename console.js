@@ -18,4 +18,4 @@ function letterFinder(word, match) {
         console.log("Please pass valid arguments");
     }
 }
-letterFinder('speed','d');
+console.log("s")
